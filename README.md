@@ -1,6 +1,6 @@
-# Exercise 12 - An outline of a page layout
+# Exercise 12 - Outline of a page layout
 
-For this exercise, let's continue practicing using CSS flex box. This time we're going to build just the outline of the page so that we know for sure how to do simple layouts before adding more complex items to our page.
+For this exercise, let's continue practicing using flex box and CSS. This time we're going to build just the outline of the page so that we are very comfortable with the basics of flex box layouts before adding more complex items to our page.
 
 ## Ideal outcome
 
