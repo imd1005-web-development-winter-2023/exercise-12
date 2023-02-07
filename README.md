@@ -1,6 +1,6 @@
 # Exercise 12 - Outline of a page layout
 
-For this exercise, let's continue practicing using flex box and CSS. This time we're going to build just the outline of the page so that we are very comfortable with the basics of flex box layouts before adding more complex items to our page.
+For this exercise, let's continue practicing using flex box and CSS. This time we're going to build just the outline of the page so that we are very comfortable with the basics of flex box layouts before adding more complex items to our page. All of the colour codes you need are in your `style.css` file, though you can use a different colour palette if you are so inclined.
 
 ## Desired outcome
 
