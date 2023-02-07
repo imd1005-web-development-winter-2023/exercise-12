@@ -1,0 +1,94 @@
+/**** Add your styles here ****/
+
+/*
+  Colour palette:
+  https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557
+
+  #e63946
+  #f1faee
+  #457b9d
+  #1d3557
+
+*/
+
+/*
+  The page div is our flex box and is setup
+  to take the full width and height of the page
+*/
+.page {
+  min-width: 100%;
+  min-height: 100%;
+
+  /* Flex directives */
+  display: flex;
+  /* Add our flex code here - this is the parent container */
+}
+
+/*
+  To keep things simple we just target the
+  header directly. Here we are adding
+  padding to the top and bottom (nothing on the side)
+  and setting the background and text colours.
+*/
+header {
+  /* Add padding */
+
+  /* Add a background colour */
+
+  /* Add a text colour */
+}
+
+/*
+  To keep things simple we just target the
+  main element directly.
+
+  We add the align-self: center directive to
+  center the flex item in the middle of the screen
+
+  We set the minimum and maximum width so
+  that we can keep our box to a certain size.
+
+  Lastly we add padding, colours, and a box shadow to
+  make it look a bit better
+*/
+main {
+  /* Hint: Add flex css so that this item centers itself */
+
+  min-width: 600px;
+  max-width: 600px;
+
+  /* Add padding */
+
+  /* Add a background colour */
+
+  /* Add a text colour */
+
+  /* Add a rounded corner */
+  /* Hint: border radius property */
+
+  /* Add a box shadow */
+  /* Hint: box-shadow property */
+}
+
+/*
+  To keep things simple we just target the
+  footer directly. Here we are adding
+  padding to the top and bottom (nothing on the side)
+  and setting the background and text colours.
+*/
+footer {
+  /* Add padding */
+
+  /* Add a background colour */
+
+  /* Add a text colour */
+}
+
+/****************************/
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f1faee;
+  min-height: 100%;
+  min-width: 100%;
+}
