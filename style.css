@@ -54,6 +54,7 @@ header {
 main {
   /* Hint: Add flex css so that this item centers itself */
 
+  /* This code makes the main box exactly 600px */
   min-width: 600px;
   max-width: 600px;
 
