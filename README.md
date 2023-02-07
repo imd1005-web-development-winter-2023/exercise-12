@@ -2,7 +2,7 @@
 
 For this exercise, let's continue practicing using flex box and CSS. This time we're going to build just the outline of the page so that we are very comfortable with the basics of flex box layouts before adding more complex items to our page.
 
-## Ideal outcome
+## Desired outcome
 
 ![This is an image of the finished product](/images/desired-outcome.png)
 
